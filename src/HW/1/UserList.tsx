@@ -11,7 +11,7 @@ type UserType = {
 };
 
 
- type UserListPropsType = {
+type UserListPropsType = {
   users: Array<UserType>;
   //id: number;
 
